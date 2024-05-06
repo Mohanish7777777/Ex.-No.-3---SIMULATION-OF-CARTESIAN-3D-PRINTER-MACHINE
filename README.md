@@ -59,9 +59,13 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![1](https://github.com/CynthiaMehul/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150319444/ca5bd4ce-2520-4ae3-bf92-67d44cbba5c1)
+![2](https://github.com/CynthiaMehul/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150319444/9eb4721c-f45a-4b19-8afb-1b7e27cdf437)
+![3](https://github.com/CynthiaMehul/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150319444/8c4ad361-312d-42ca-bfc2-55ebaaa55c3d)
+![4](https://github.com/CynthiaMehul/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150319444/018f1885-aef6-4443-a9e9-9a8e213a6c7c)
 
-### Name: 
-### Register Number:
+### Name: Cynthia Mehul
+### Register Number: 212223240020
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
