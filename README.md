@@ -64,8 +64,8 @@
 ![3](https://github.com/CynthiaMehul/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150319444/8c4ad361-312d-42ca-bfc2-55ebaaa55c3d)
 ![4](https://github.com/CynthiaMehul/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150319444/018f1885-aef6-4443-a9e9-9a8e213a6c7c)
 
-### Name: Cynthia Mehul
-### Register Number: 212223240020
+### Name: Mohanish K
+### Register Number: 212222100028
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
